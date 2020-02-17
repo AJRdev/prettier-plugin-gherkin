@@ -41,6 +41,7 @@ module.exports = (node, options) => {
             : "",
         ]),
       ),
+        hardline
     ]),
   );
 };
